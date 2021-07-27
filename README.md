@@ -1,5 +1,5 @@
 # Gesture-Volume-Control
-Have you ever tried to Increase or Decrease the user volume with the help of Hand Gestures? This Module let's you to control the master volume of one's device using the pinch of index and middle finger. 
+Have you ever tried to Increase or Decrease the user volume with the help of Hand Gestures? This Module let's you to control the master volume of one's device using the pinch of index and middle finger. This Model uses Deep Learning based library called MediaPipe to track Hand Points combined with openCV to calculate the distance between the index and middle finger and then actuates the volume of a device accordingly.
 
 ## Steps of Volume Control
 1. Use your Right Hand
@@ -14,6 +14,6 @@ Have you ever tried to Increase or Decrease the user volume with the help of Han
 
    <img src="https://user-images.githubusercontent.com/87967508/127206406-1c9083fd-82e7-437c-96f7-5e345d7ad7ff.png" width="600">
 
-4. Once the desired volume is reached, keeping the pinch as it is, raise the pinky Finger to set the desired Volume
+4. Once the desired volume is reached, keeping the pinch as it is, raise the Pinky Finger to set the desired Volume
 
    <img src="https://user-images.githubusercontent.com/87967508/127206427-2bf725fc-ee98-42fa-a62b-60669e14ff30.png" width="600">
